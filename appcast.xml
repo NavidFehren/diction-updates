@@ -4,6 +4,21 @@
         <title>Diction</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 28 Oct 2026 19:00:18 +0100</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Diction 0.1.0
+
+- Vorlesen: unbenutzte Variable entfernt (#22)
+]]></description>
+            <enclosure url="https://navidfehren.github.io/diction-updates/Diction-0.1.0-34.zip" length="4817263" type="application/octet-stream" sparkle:edSignature="Kx4OXf6tnh/AO82weAXnm2aUDKK6J5dCuTUFn5mNEE3hOyiIvO3vKcQFbldPCXPIYON4905THzpkcEW3e3afCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction34-33.delta" sparkle:deltaFrom="33" length="100270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HYJkeb7sTnmCGVpXagwQrbBNjQV9niVZy+420wPwCY6+kRr8Irrjy8sw6eVXIt1d4wK4GdPd4R1OZiTDLBssCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 28 Oct 2026 18:58:14 +0100</pubDate>
             <sparkle:version>33</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
