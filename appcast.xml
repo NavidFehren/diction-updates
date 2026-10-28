@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Diction</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 28 Oct 2026 18:58:14 +0100</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Diction 0.1.0
+
+- Öffentlichen Update-Schlüssel eintragen (#22)
+- Palette: kein eckiger Rand mehr um die Glasfläche (Closes #28)
+- Palette: Suchfeld beim Öffnen fokussieren (Closes #27, Closes #26)
+- Menüleiste: Logo kehrt nach Palette-Workflow zurück statt Sparkles (#26)
+- Insel beim Diktat sofort aufgeklappt statt erst bei Hover (Closes #25)
+- Installer: Namensschilder unter den Icons, damit die Beschriftung auch im hellen Modus lesbar ist (#23)
+- Installer-Fenster gestaltet: Graphit-Hintergrund mit Welle als Pfeil, feste Icon-Positionen, Volume-Icon (Closes #23)
+- Automatische Updates mit Sparkle: Einstellungen, Update-Hinweis, make publish (#22)
+]]></description>
+            <enclosure url="https://navidfehren.github.io/diction-updates/Diction-0.1.0-33.zip" length="4817359" type="application/octet-stream" sparkle:edSignature="zi8oznGROMb31k27eEsA8kvb3UZxUGruZYmnRlBg5isK9uexOD7tJ6pxvfIw+FrBnjK2LC83g8+m6Rpz+1oFDw=="/>
+        </item>
+    </channel>
+</rss>
