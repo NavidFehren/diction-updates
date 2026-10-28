@@ -4,6 +4,35 @@
         <title>Diction</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 28 Oct 2026 23:19:29 +0100</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Diction 0.1.0
+
+- Debug-Hooks workflow und format für lokale Text-Tests, kurzer Name für Standard-Sprachmodell (Closes #38)
+- Lokales Sprachmodell für Workflows und Diktat-Formatierung: TextEngine, LocalText/local_text.py, Einstellung Claude/Lokal (#38)
+- Lokale Transkription geprüft: Ausweichen auf ElevenLabs, Dateien über den Worker (Closes #37)
+- Diktat und Dateien lokal transkribieren über den gemeinsamen Worker (#37)
+- Gespräch direkt aufnehmen: Systemaudio-Tap + Mikrofon, Insel mit Zeit und Stopp, danach mit Sprechern abschreiben
+- Lokal: Download-Fortschritt aus Netz-Bytes, Debug-Hooks für Einstellungen und Modelle (Closes #36)
+- Lokale Laufzeit: gemeinsame uv-Umgebung, Prozess je Fähigkeit, Modellverwaltung, Einstellungen „Lokal“ (#36)
+- Dateien: Sprechererkennung, Transkript-Fenster mit Namen und Markdown-Export, Anbieter Apple und lokal (#11)
+- Dateien: Kurzfassung per Claude, Workflows aufs Ergebnis, Verlauf, Öffnen mit/Dienst, Warteschlange (#11)
+- Audiodateien abschreiben: zur Menüleiste ziehen, Insel als Ablagefläche, Ergebnis-Karte, Einstellungen „Dateien“ (#11)
+- Diktat: bei Automatisch nur Deutsch/Englisch, sonst neu mit Deutsch transkribieren (#34)
+- Aufnahme-Insel nach Vorbild der Dynamic Island: Ziel-App, getönte Welle, größere Knöpfe, Stille-Hinweis (#33)
+- Menüleiste: immer das Diction-Logo statt wechselnder Symbole
+]]></description>
+            <enclosure url="https://navidfehren.github.io/diction-updates/Diction-0.1.0-50.zip" length="5880970" type="application/octet-stream" sparkle:edSignature="4InKR5r5qo1ThmZLuJweZg4FNqVZsl+FZPAdtRPe+KpPiJS2k2jI68ovZmISDTdNeYJI7YqrBm+l9V7q+NKKCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction50-37.delta" sparkle:deltaFrom="37" length="1402778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vkWdVW9C8LS15s57DZsDmi6LHx3oTm1vcVaA7QY4tkSq3D60pnt7YIX5b01n4y9yjNf7oXqFqfUySRCAZyhaBA=="/>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction50-34.delta" sparkle:deltaFrom="34" length="1461698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Y1uaT0dAsdBNYeyWvCWq5IlIYiNS7LEwNkPAuuTSbu9958oNzETe1WS08DhkjQbzOYvteh2uDxW+4MvOtfhmAA=="/>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction50-33.delta" sparkle:deltaFrom="33" length="1461746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YM6Ua6D9Ny5Inc9WeKrPxjFLb9RwJntXV+8Q6Gr03Tnrs8U260nmYKJ46R1CHQjXAQKKgMpwuez19xD3RbVvCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 28 Oct 2026 19:25:02 +0100</pubDate>
             <sparkle:version>37</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
