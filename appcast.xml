@@ -4,6 +4,23 @@
         <title>Diction</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 28 Oct 2026 19:25:02 +0100</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Diction 0.1.0
+
+- Vorlesen: Gesamtdauer vorab schätzen, damit der Fortschrittsbalken nicht zurückspringt (#29)
+- Vorlesen lokal mit Voxtral (mlx-audio) als Alternative zu ElevenLabs (#29)
+]]></description>
+            <enclosure url="https://navidfehren.github.io/diction-updates/Diction-0.1.0-37.zip" length="4957527" type="application/octet-stream" sparkle:edSignature="G/stHhsw0GKdS8IQodAiuXg89zroIIrfAjv2Rr2c4Hk524+J/4gwIMplgeJGp1RoUVlsv+JYPLtfhU+43f9CCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction37-34.delta" sparkle:deltaFrom="34" length="537862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OdbDDdDCWbD4boVWUxUYE9YFwsQZ9UYYtLkNGbgXds9/AOh8ohjyLN+WIa7uQCqXyWytRuSrfFcKLe620AecAQ=="/>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction37-33.delta" sparkle:deltaFrom="33" length="537602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UJCSBX8k4j6MoyHOJONzHavMB9pHYxqSGWpQTVJiaTVZTiloPt+e02G7MX/OcpdR67mmpYszDAhWP7npNk6uDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 28 Oct 2026 19:00:18 +0100</pubDate>
             <sparkle:version>34</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
