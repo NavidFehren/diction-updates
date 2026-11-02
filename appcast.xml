@@ -3,6 +3,23 @@
     <channel>
         <title>Diction</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Mon, 02 Nov 2026 10:44:32 +0100</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Diction 0.2.0
+
+- Version 0.2.0
+]]></description>
+            <enclosure url="https://navidfehren.github.io/diction-updates/Diction-0.2.0-51.zip" length="5880973" type="application/octet-stream" sparkle:edSignature="+2nReZDwsB/xR7hjSSdKMb4nLjvrm9wvvC8I71u6OAH6SMPpUAsa0M5hBemB6YlStFs9Z6QPreG5pYwX5GsNDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction51-50.delta" sparkle:deltaFrom="50" length="4078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+2Y/BramwGYEHomJxjpPBRuxFwKPo4XYLm/U8V2tZ5LtOOwQF2hNLr643rWPQRDtddAXbcoo3+PONbAs+RS0DA=="/>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction51-37.delta" sparkle:deltaFrom="37" length="1402018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ysWtBU45gVFucfNsp41hNZLvQc92pJQ19hwz2Pi5VbypfKppBIdjjJxhMIZROBGO/4Em5AE12pT/AQrNioRTAA=="/>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction51-34.delta" sparkle:deltaFrom="34" length="1463178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IASPUhIdcyn2qOnd/XBnbXa39l/8FaRgNQcQv6cQEp10YkCYZBjwwjv0w3dhFAb5vEySI42Hw0ak1fMslsM+Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Wed, 28 Oct 2026 23:19:29 +0100</pubDate>
             <sparkle:version>50</sparkle:version>
