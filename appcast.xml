@@ -3,6 +3,26 @@
     <channel>
         <title>Diction</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Tue, 03 Nov 2026 21:41:07 +0100</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Diction 0.2.2
+
+- make install signiert mit Developer ID wie Updates (#45); Version 0.2.2
+- Debug-Builds mit eigener Bundle-ID, damit Berechtigungen der installierten App gültig bleiben (Closes #45)
+- Debug-Snapshots: eigene Ansicht selbst zeichnen, wenn die alte Fensteraufnahme unter macOS 27 nichts liefert (Closes #44)
+- Diktat: kein zweiter Start während der Aufnahme startet, laufende Audio-Engine vor Neuanlage stoppen (Closes #43)
+]]></description>
+            <enclosure url="https://navidfehren.github.io/diction-updates/Diction-0.2.2-58.zip" length="5929896" type="application/octet-stream" sparkle:edSignature="EmfD5xr9f/OZ4Skb3/+LRINBe+GdjQ4Skm8KdEcSplNy6diU2v2ndtD5ZhIrVVke9ijdLCvMamNy0OQp8szLAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction58-54.delta" sparkle:deltaFrom="54" length="321414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HXTAViGeysf9IGEFfV25/ExviJETl4Yye3BorvHuHykSGadoqIPcD8mDhGTKIPnQBCXDS2545pts2zPF+x1/DA=="/>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction58-51.delta" sparkle:deltaFrom="51" length="329214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="08pdCWVFWKuWypl22VvnNO+Dgyy68+DkE7mqUotD0xzrj3543lq61h0Jqpyy7tdPi/vvnoAX9h3+ByyyTrrwAA=="/>
+                <enclosure url="https://navidfehren.github.io/diction-updates/Diction58-50.delta" sparkle:deltaFrom="50" length="329926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="udx9hotazM7JKQ1Mr0nYoaqVeNtVzS7G4x4upwvHpIzCD2cJIhtiU3W2k5O0KczvVzl0ePArBmxyOiGlytR/CA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Mon, 02 Nov 2026 10:50:24 +0100</pubDate>
             <sparkle:version>54</sparkle:version>
@@ -81,21 +101,6 @@
             <sparkle:deltas>
                 <enclosure url="https://navidfehren.github.io/diction-updates/Diction37-34.delta" sparkle:deltaFrom="34" length="537862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OdbDDdDCWbD4boVWUxUYE9YFwsQZ9UYYtLkNGbgXds9/AOh8ohjyLN+WIa7uQCqXyWytRuSrfFcKLe620AecAQ=="/>
                 <enclosure url="https://navidfehren.github.io/diction-updates/Diction37-33.delta" sparkle:deltaFrom="33" length="537602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UJCSBX8k4j6MoyHOJONzHavMB9pHYxqSGWpQTVJiaTVZTiloPt+e02G7MX/OcpdR67mmpYszDAhWP7npNk6uDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 28 Oct 2026 19:00:18 +0100</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Diction 0.1.0
-
-- Vorlesen: unbenutzte Variable entfernt (#22)
-]]></description>
-            <enclosure url="https://navidfehren.github.io/diction-updates/Diction-0.1.0-34.zip" length="4817263" type="application/octet-stream" sparkle:edSignature="Kx4OXf6tnh/AO82weAXnm2aUDKK6J5dCuTUFn5mNEE3hOyiIvO3vKcQFbldPCXPIYON4905THzpkcEW3e3afCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://navidfehren.github.io/diction-updates/Diction34-33.delta" sparkle:deltaFrom="33" length="100270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HYJkeb7sTnmCGVpXagwQrbBNjQV9niVZy+420wPwCY6+kRr8Irrjy8sw6eVXIt1d4wK4GdPd4R1OZiTDLBssCQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
